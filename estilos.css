@@ -1,3 +1,4 @@
+
 *{
 
     padding: 0px;
@@ -11,7 +12,7 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("tree-g784ead8cf_1920.jpg");
     
     background-repeat: no-repeat;
     
@@ -63,3 +64,286 @@
     
     }
     
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        }
+            
+            
+.contenido{
+
+ height: 280px;
+                
+ width: 100%;
+                
+ position: absolute;
+                
+ top: 410px;
+                
+ }
+                
+                 
+                
+.imagensoci{
+                
+ background-repeat: no-repeat;
+                
+ float:left;
+                
+ height: 200px;
+                
+ width: 260px;
+                
+ margin-left: 5px;
+                
+ margin-right:5px;
+                
+ background-image: url("");
+                
+} 
+                
+                
+.textosoci{
+                
+ text-align: justify;
+                
+ color: azure;
+                
+ font-size: 20px;
+                
+ }
+
+.contenido{
+
+ height: 280px;
+                    
+ width: 100%;
+                    
+ position: absolute;
+                    
+ top: 410px;
+                    
+                     
+                    
+   }
+                    
+ .imagenbio{
+                                     
+   background-repeat: no-repeat;
+                    
+     float:left;
+                    
+     height: 200px;
+                    
+    width: 260px;
+                    
+    margin-left: 5px;
+                    
+    margin-right:5px;
+                    
+    background-image: url("");
+                    
+     }
+                    
+                    
+                    
+   .textobio{
+                    
+    text-align: justify;
+
+    color: azure;
+
+      font-size: 20px;
+   }
+
+   .contenido{
+
+    height: 280px;
+                       
+    width: 100%;
+                       
+    position: absolute;
+                       
+    top: 410px;
+                       
+                        
+                       
+      }
+                       
+    .imagening{
+                                        
+      background-repeat: no-repeat;
+                       
+        float:left;
+                       
+        height: 200px;
+                       
+       width: 260px;
+                       
+       margin-left: 5px;
+                       
+       margin-right:5px;
+                       
+       background-image: url("");
+                       
+        }
+                       
+                       
+                       
+      .textoing{
+                       
+       text-align: justify;
+   
+       color: azure;
+   
+         font-size: 20px;
+      }
+
+      .contenido{
+
+        height: 280px;
+                           
+        width: 100%;
+                           
+        position: absolute;
+                           
+        top: 410px;
+                           
+                            
+                           
+          }
+                           
+        .imagenmate{
+                                            
+          background-repeat: no-repeat;
+                           
+            float:left;
+                           
+            height: 200px;
+                           
+           width: 260px;
+                           
+           margin-left: 1000px;
+                           
+           margin-right:1200px;
+                           
+           background-image: url("");
+                           
+            }
+                           
+                           
+                           
+          .textomate{
+                           
+           text-align: justify;
+       
+           color: azure;
+       
+             font-size: 20px;
+          }
+          .contenido{
+
+            height: 280px;
+                               
+            width: 100%;
+                               
+            position: absolute;
+                               
+            top: 410px;
+                               
+                                
+                               
+              }
+                               
+            .imagenreli{
+                                                
+              background-repeat: no-repeat;
+                               
+                float:left;
+                               
+                height: 200px;
+                               
+               width: 260px;
+                               
+               margin-left: 5px;
+                               
+               margin-right:5px;
+                               
+               background-image: url("");
+                               
+                }
+                               
+                               
+                               
+              .textoreli{
+                               
+               text-align: justify;
+           
+               color: azure;
+           
+                 font-size: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
