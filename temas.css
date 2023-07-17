@@ -1,7 +1,7 @@
 .encabezado {
     background-color: rgba(122, 50, 189, 0.596);
     width:100%;
-    height:1200px;
+    height:1500px;
     }
     
     .menu { 
@@ -13,25 +13,25 @@
     .menu2{
     background-color: darkorchid;
     width: 100%;
-    height: 50px;
+    height: 150px;
     }
     
     .izquierdo{
     background-color: blueviolet;
     width: 20%;
-    height: 1000px;
+    height:50px;
     }
     
     .centro{
     background-color: blueviolet;
-    width:50% ;
-    height: 1000px;
+    width:60% ;
+    height: 1500px;
     }
     
     .izquierdo{
     background-color: blueviolet;
     width:20%;
-    height: 1000px;
+    height:50px;
     }
     
     
@@ -41,11 +41,9 @@
     
     width: 100%;
     
-    position: absolute;
+    position: relative;
     
-    top: 410px;
-    
-     
+    top: 410px; 
     
     }
     
