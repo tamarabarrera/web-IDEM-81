@@ -15,10 +15,15 @@
     background-image: url("flower-gce90845b2_1920.jpg");
     
     background-repeat: no-repeat;
-    
+  
     }
+    .fondotecno{
     
+      background-image: url("");
+      
+      background-repeat: no-repeat;
     
+      }
     
     .img{
     
@@ -38,7 +43,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("");
     
     }
     
@@ -54,11 +59,11 @@
     
     .texto{
     
-    font-size: 40px;
+    font-size: 60px;
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(255, 255, 255);
     
      
     
@@ -106,9 +111,9 @@
         
         text-align: justify;
         
-        color: azure;
+        color: rgb(0, 0, 0);
         
-        font-size: 20px;
+        font-size: 40sspx;
         
         }
             
