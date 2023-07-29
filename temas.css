@@ -1,50 +1,114 @@
-.encabezado {
-
-    width:100%;
-    height:1500px;
-    }
-    
-    .menu { 
-    
-    width:100%;
-    height:150px ;
-    }
-    
-    .menu2{
-    background-color: darkorchid;
+.contenedor{
     width: 100%;
-    height: 150px;
-    }
+    height: 1400px;
     
-    .izquierdo{
-    background-color: blueviolet;
+   
+}
+.encabezado{
+    width: 100%;
+    height: 150px ;
+    
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    
+    
+    
+}
+.menu{
+    width:100% ;
+    height:100px ;
+
+    display: flex;
+    
+}
+.contenedor2{
+    width: 100%;
+    height: 20000px; 
+    
+    display: flex;
+   
+}
+.izquierdo{
     width: 20%;
-    height:50px;
-    }
+    height: 2000px;
+    background-color:  rgb(137, 120, 212) ;
     
-    .centro{
-    background-color: blueviolet;
-    width:60% ;
-    height: 1500px;
-    }
+}
+.centro{
+      width: 65%;
+      height: 20000px;
+      background-color: rgb(176, 188, 251);
+      color: black;
+     font-size:20px;
+     font-family: 'Times New Roman', Times, serif;
     
-    .izquierdo{
-    background-color: blueviolet;
-    width:20%;
-    height:50px;
-    }
+}    
+.derecha{
+    width: 20%;
+    height: 2300px;
+    background-color: rgb(137, 120, 212);
     
-    
-.contenido{
+}
+.sociales{
+width:100px ;
+height:98px ;
+background-color: rgb(47, 186, 225);
+margin: 1px;
+color: black;
+font-size:20px;
+font-family: 'Times New Roman', Times, serif;
 
-    height: 280px;
-    
-    width: 100%;
-    
-    position: relative;
-    
-    top: 410px; 
-    
-    }
-    
-    
+}
+.ingles{
+width:100px ;
+height:98px ;
+background-color: aqua;
+margin: 1px;
+color: black;
+font-size:20px;
+font-family: 'Times New Roman', Times, serif;
+}
+.matematicas{
+width:100px ;
+height: 98px;
+background-color: rgb(186, 136, 233);
+margin: 1px;
+color: black;
+font-size:20px;
+font-family: 'Times New Roman', Times, serif;
+}
+.biologia{
+width: 100px;
+height: 98px;
+background-color: aquamarine;
+margin: 1px;
+color: black;
+font-size:20px;
+font-family: 'Times New Roman', Times, serif;
+}
+.tecnologia{
+width: 100px;
+height: 98px;
+background-color: aqua;
+margin: 1px;
+color: black;
+font-size:20px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
