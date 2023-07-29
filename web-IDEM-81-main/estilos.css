@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("watercolor-2681039.jpg");
+    background-image: url("fantasy-9.jpg");
     
     background-repeat: no-repeat;
     
@@ -21,7 +21,7 @@
     
     .img{
     
-    position: relative;
+    position: center;
     
      
     
@@ -84,17 +84,17 @@
         
         background-repeat: no-repeat;
         
-        float:left;
+        float:center;
         
-        height: 200px;
+        height: 329px;
         
-        width: 260px;
+        width: 450px;
         
         margin-left: 5px;
         
         margin-right:5px;
         
-        background-image: url("medellin.jpeg");
+        background-image: url("CircuitoComestible.jpg");
         
         }
         
@@ -104,22 +104,22 @@
         
         text-align: center;
         
-        color: rgb(76, 0, 255);
+        color: rgb(220, 243, 14);
         
-        font-size: 20px;
+        font-size: 18px;
         
         
         
         }
         .contenido{
 
-            height: 2000px;
+            height: 1800px;
             
             width: 100%;
             
             position: absolute;
             
-            top: 410px;
+            top: 200px;
             
              
             
@@ -153,22 +153,22 @@
             
             text-align: center;
             
-            color: rgb(0, 17, 255);
+            color: rgb(255, 230, 0);
             
-            font-size: 20px;
+            font-size: 18px;
             
             
             
             }
             .contenido{
 
-                height: 2000px;
+                height: 900px;
                 
                 width: 100%;
                 
                 position: absolute;
                 
-                top: 410px;
+                top: 300px;
                 
                  
                 
@@ -182,17 +182,17 @@
                 
                 background-repeat: no-repeat;
                 
-                float:left;
+                float:center;
                 
-                height: 200px;
+                height: 222px;
                 
-                width: 260px;
+                width: 400px;
                 
                 margin-left: 5px;
                 
                 margin-right:5px;
                 
-                background-image: url("medellin.jpeg");
+                background-image: url("IMAGEN\ SOCIALES\ 4.png");
                 
                 }
                 
@@ -202,9 +202,9 @@
                 
                 text-align: center;
                 
-                color: rgb(0, 4, 255);
+                color: rgb(251, 255, 0);
                 
-                font-size: 20px;
+                font-size: 18px;
                 
                 
                 
@@ -233,15 +233,15 @@
                     
                     float:left;
                     
-                    height: 200px;
+                    height: 300px;
                     
-                    width: 260px;
+                    width: 460px;
                     
                     margin-left: 5px;
                     
                     margin-right:5px;
                     
-                    background-image: url("medellin.jpeg");
+                    background-image: url("religion\ 1.jpeg");
                     
                     }
                     
@@ -251,9 +251,9 @@
                     
                     text-align: center;
                     
-                    color: rgb(0, 17, 255);
+                    color: rgb(238, 255, 0);
                     
-                    font-size: 20px;
+                    font-size: 18px;
                     
                     
                     
@@ -282,15 +282,15 @@
                         
                         float:left;
                         
-                        height: 200px;
+                        height: 500px;
                         
-                        width: 260px;
+                        width: 600px;
                         
                         margin-left: 5px;
                         
                         margin-right:5px;
                         
-                        background-image: url("medellin.jpeg");
+                        background-image: url("biologia\ 3.jpg");
                         
                         }
                         
@@ -300,7 +300,7 @@
                         
                         text-align: center;
                         
-                        color: rgb(0, 17, 255);
+                        color: rgb(238, 255, 0);
                         
                         font-size: 18px;
                         
@@ -349,7 +349,7 @@
                             
                             text-align: center;
                             
-                            color: rgb(0, 38, 255);
+                            color: rgb(251, 255, 0);
                             
                             font-size: 18px;
                             
